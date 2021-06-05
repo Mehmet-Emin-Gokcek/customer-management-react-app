@@ -4,7 +4,9 @@ Check out the Live Demo below.
 https://mehmetgokcek.github.io/customer-management-react-app/
 
 
-- This React App uses .NET 5 REST API to make basic CRUD operations on a SQL Server.
+- This React App uses an ASP.NET 5 REST API that I build to handle basic CRUD operations on the customer object. 
+
+- Customer data persists on an SQL database server. 
 
 - Both REST API and SQL Server run on Azure cloud. 
 
