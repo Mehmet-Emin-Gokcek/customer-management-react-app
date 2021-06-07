@@ -1,6 +1,6 @@
 # Customer Management React App
 
-Check out the Live Demo below. 
+Check out the Live Demo here:
 https://mehmetgokcek.github.io/customer-management-react-app/
 
 
